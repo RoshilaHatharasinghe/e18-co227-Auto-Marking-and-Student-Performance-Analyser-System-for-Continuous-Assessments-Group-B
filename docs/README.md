@@ -19,9 +19,9 @@ title:
 
 
 ## Team
--  E/18/323, Seekkubadu H.D. e18323@eng.pdn.ac.lk
--  E/18/330, Sewwandi H.R. e18330@eng.pdn.ac.lk
--  E/18/375, Vindula K.P.A. e18375@eng.pdn.ac.lk
+-  E/18/323, Seekkubadu H.D. [e18323@eng.pdn.ac.lk](mailto:e18323@eng.pdn.ac.lk)
+-  E/18/330, Sewwandi H.R. [e18330@eng.pdn.ac.lk](mailto:e18330@eng.pdn.ac.lk)
+-  E/18/375, Vindula K.P.A. [e18375@eng.pdn.ac.lk](e18375@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
