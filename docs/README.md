@@ -42,7 +42,7 @@ So the motivation of this project is to create an Autograder which is capable of
 
 ### Proposed Solution
 
-Our solution to the problem is to integrate an already existing Auto-Grading system into a web interface that allows to track the students' performances. 
+Our solution to the problem is to integrate an already existing Auto-Grading system into a web interface that allows to track the students' performances.
 
 
 ## Links
