@@ -23,6 +23,14 @@ title:
 -  E/18/330, Sewwandi H.R. [e18330@eng.pdn.ac.lk](mailto:e18330@eng.pdn.ac.lk)
 -  E/18/375, Vindula K.P.A. [e18375@eng.pdn.ac.lk](mailto:e18375@eng.pdn.ac.lk)
 
+## Supervisor
+
+Dr. Mahanama Wickramasinghe [mahanamaw@eng.pdn.ac.lk](mailto:mahanamaw@eng.pdn.ac.lk)
+
+## Scrum Master
+
+Poornima Lankani [lankaniperera@eng.pdn.ac.lk](mailto:lankaniperera@eng.pdn.ac.lk)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Proposed Solution and its Scope](#proposed-solution-and-its-scope)
