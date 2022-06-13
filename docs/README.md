@@ -88,9 +88,6 @@ Here we create a web Interface to communicate with GitHub Classroom. The instruc
 
 ![timeline](./images/timeline.PNG)
 
-
-
-
 ## Links
 
 - [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
