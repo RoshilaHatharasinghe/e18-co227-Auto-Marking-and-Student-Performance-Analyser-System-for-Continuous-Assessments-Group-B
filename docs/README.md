@@ -84,7 +84,10 @@ Here we create a web Interface to communicate with GitHub Classroom. The instruc
    
    - The overall data generated (Total marks of each student) will be saved in a database for future reference
 
-## Project Timeline
+### Project Timeline
+
+![timeline](./images/timeline.PNG)
+
 
 
 
