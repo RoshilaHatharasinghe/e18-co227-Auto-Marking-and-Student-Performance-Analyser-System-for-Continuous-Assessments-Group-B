@@ -27,7 +27,8 @@ title:
 1. [Introduction](#introduction)
 2. [Proposed Solution and its Scope](#proposed-solution-and-its-scope)
 3. [High Level Plan of Reaching the Solution](#high-level-plan-of-reaching-the-solution)
-4. [Links](#links)
+4. [Project Timeline](#project-timeline)
+5. [Links](#links)
 
 ---
 
@@ -82,6 +83,8 @@ Here we create a web Interface to communicate with GitHub Classroom. The instruc
    - By analyzing the performance of each student, the instructor will be able to give feedback and help students to complete the assignments.
    
    - The overall data generated (Total marks of each student) will be saved in a database for future reference
+
+## Project Timeline
 
 
 
