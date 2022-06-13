@@ -25,7 +25,7 @@ title:
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
+2. [Proposed Solution](#other-sub-topics)
 3. [Links](#links)
 
 ---
@@ -38,7 +38,6 @@ Most coding assignments these days can be evaluated relatively well by using an 
 
 So the motivation of this project is to create an Autograder which is capable of evaluating coding assignments submitted by students.
 
-## Other Sub Topics
 
 ### Proposed Solution
 
