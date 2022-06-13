@@ -86,7 +86,7 @@ Here we create a web Interface to communicate with GitHub Classroom. The instruc
 
 ### Project Timeline
 
-![timeline](./images/timeline.PNG)
+![timeline](./images/Timeline.PNG)
 
 ## Links
 
