@@ -1,4 +1,4 @@
-### Auto Marking and Student Performance Analyser System for Continuous Assessments
+## Auto Marking and Student Performance Analyser System for Continuous Assessments
 
 The Computer Engineering department consists of at least 240 students. Most courses offered by the department consist of multiple coding assignments. Under the current system, instructors have to manually go through each student's code to evaluate their performance. This takes up a lot of time. As a result, Instructors have less time to spend on other student activities such as teaching.
 
@@ -20,5 +20,6 @@ Dr. Mahanama Wickramasinghe [mahanamaw@eng.pdn.ac.lk](mailto:mahanamaw@eng.pdn.a
 
 Poornima Lankani [lankaniperera@eng.pdn.ac.lk](mailto:lankaniperera@eng.pdn.ac.lk)
 
+----
 
 - [Project Page](https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/)
